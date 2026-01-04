@@ -4,7 +4,7 @@
 Welcome to the Mandarin Language Tutor! This guide will help you get started and make the most of your practice sessions.
 
 ### 🔗 Quick Links
-* **Live App:** [mando-lang-tutor.vercel.app/]((https://mando-lang-tutor.vercel.app/)
+* **Live App:** [mando-lang-tutor.vercel.app/](https://mando-lang-tutor.vercel.app/)
 * **Feedback/Bugs:** [Open an Issue](https://github.com/AliZohairWat/mandarin-language-tutor-docs/issues)
 
 ## What Makes This Different?
